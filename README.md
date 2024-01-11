@@ -1,6 +1,13 @@
 # Hackintosh \ OpenCore for Dell Latitude 5420
-This EFI is still under development and is **not** intended for regular use. It is intended for informational purposes only. \
-Цей завантажувач ще знаходиться под розробкою, та **не** рекомендується для постійного використання. Несе виключно ознайомлювальний посил.
+This EFI is still under development and is **not** intended for regular use. \
+It is intended for informational purposes only.
+Please note, that the bootloader is for 5420, **not E5420**
+
+Цей завантажувач ще знаходиться под розробкою, та **не** рекомендується для постійного використання. \
+Несе виключно ознайомлювальний посил.
+Зауважте, що завантажувач для моделі 5420, **не Е5420**
+
+| >w<
 
 <details>
   <summary>
